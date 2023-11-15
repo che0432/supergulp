@@ -6,15 +6,33 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "gulp dev",
-    "build": "gulp build"
+    "build": "gulp build",
+    "deploy": "gulp deploy"
   },
   "repository": "https://github.com/che0432/supergulp",
   "author": "Hye-eun Cho <cho0432@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "gulp": "^4.0.2",
     "@babel/core": "^7.23.3",
     "@babel/preset-env": "^7.23.3",
-    "@babel/register": "^7.22.15"
-  }
+    "@babel/register": "^7.22.15",
+    "gulp": "^4.0.2",
+    "gulp-pug": "^5.0.0"
+  },
+  "dependencies": {
+    "babelify": "^10.0.0",
+    "del": "4.1.1",
+    "gulp-autoprefixer": "^6.1.0",
+    "gulp-bro": "^2.0.0",
+    "gulp-csso": "^4.0.1",
+    "gulp-gh-pages": "^0.5.4",
+    "gulp-image": "6.2.1",
+    "gulp-sass": "^5.1.0",
+    "gulp-webserver": "^0.9.1",
+    "node-sass": "^9.0.0",
+    "uglifyify": "^5.0.2"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ]
 }

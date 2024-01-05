@@ -2,6 +2,6 @@
 
 노마드코더
 
-줌 클론코딩
+Gulp 90분 마스터하기
 
-<a href="https://nomadcoders.co/noom"><img src="https://img.shields.io/badge/nomadcoders link-ff9500?style=flat-square&logo=nomadcoders&logoColor=white"/></a>
+<a href="https://nomadcoders.co/gulp-for-beginners"><img src="https://img.shields.io/badge/nomadcoders link-ff9500?style=flat-square&logo=nomadcoders&logoColor=white"/></a>
